@@ -1,7 +1,8 @@
 # Progressive Attention Networks for Visual Attribute Prediction
 
 This implements a network introduced in the arXiv paper:
-Hierarchical Attention Networks (https://arxiv.org/abs/1606.02393)
+
+[Hierarchical Attention Networks](https://arxiv.org/abs/1606.02393)
 
 You first need to place MNIST dataset in ./data/mnist/
 
